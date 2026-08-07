@@ -1,7 +1,12 @@
-# brainfuck
+brainfuck
 
-small projext made for my Advance OS class, this project is a preparation for my bigherbinterpreter project. (link)
+A small project developed for my Advanced Operating Systems class.
+It serves as a preparation step for my larger interpreter project, Bigherb Interpreter.
 
-how to use ?
--> make all
-->./brainfuck bf_tests/test.bf
+Build
+
+make all
+
+Run
+
+./brainfuck bf_tests/test.bf
